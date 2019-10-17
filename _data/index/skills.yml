@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Hadoop, Spark, SQL, Machine Learing, Data Manipulation, Visualization, Math, Statistics, Programming, GitHub, Motivation, Communication
-percentage: 35, 43, 68, 76, 85, 82, 90, 74, 88, 80, 99, 77
+aspects: Machine Learing, Data Manipulation, Visualization, Math, Statistics, Programming, GitHub, Motivation, Communication, Hadoop, Spark, SQL
+percentage: 76, 85, 82, 90, 74, 88, 80, 99, 77, 35, 43, 68

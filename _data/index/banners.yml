@@ -2,14 +2,8 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/science-lover.jpg
-  title: first banner image
+- src: landing/music_cover.png
+  title: banner image
 
 - src: landing/header_two.png
   title: second banner image
-
-- src: landing/music_cover.png
-  title: third banner image
-
-- src: landing/cover.png
-  title: third banner image

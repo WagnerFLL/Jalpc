@@ -23,12 +23,10 @@ author:  # change following line to your infomation.
   cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: fa-brain
     - name: fa-atom
     - name: fa-database
   skill_icon2:
     - name: fa-code
-    - name: fa-globe
     - name: fa-infinity
   desc: Passionate about seeking to solve social problems with the help of computing through creative solutions.  # Describe yourself.
 

@@ -1,30 +1,16 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: TOCA
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I have been working at TOCA with mobile development using Ionic Framework.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Nov. 2017
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Mobiel Developer
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-mobile
   present: true
-
-- name:
-    detail: Company B
-    i18n: company_b
-  desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
-  date:
-    detail: Jun. 2015
-    i18n: company_b_date
-  job:
-    detail: Full Stack Developer
-    i18n: company_b_job
-  icon: fa-plus-square

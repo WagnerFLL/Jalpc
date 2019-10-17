@@ -1,22 +1,30 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Wagner
-  i18n: Wagner
-  gh_user: jarrekk
-  repo: Wagner
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: TATU
+  i18n: TATU
+  img: /static/assets/img/landing/tatu.png
+  url: https://projetotatu.com.br
+  desc: Mobile app to assist people with disabilities.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: CartolaFC Dataset
+  i18n: CartolaFC
+  gh_user: WagnerFLL
+  repo: Cartola
+  img: /static/assets/img/landing/cartolafc.png
+  desc: Cleaning and transformation of CartolaFC data from 2014 to 2018.
+
+- name: MUPA 3D
+  i18n: MUPA 3D
+  gh_user: WagnerFLL
+  repo: MUPA-Computer-Graphics
+  img: /static/assets/img/landing/cg.png
+  desc: 3D Modeling project using OpenGL to show a walk-in simulation through the Floriano Peixoto Palace Museum.
+
+- name: Sapphire Compiler
+  i18n: Sapphire
+  gh_user: WagnerFLL
+  repo: Sapphire
+  img: /static/assets/img/landing/compiler.png
+  desc: Lexical-analyzer and syntactic-parser.

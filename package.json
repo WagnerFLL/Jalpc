@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jarrekk/Jalpc.git"
+    "url": "git+https://github.com/jarrekk/Wagner.git"
   },
   "author": "Kun Jia",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jarrekk/Jalpc/issues"
+    "url": "https://github.com/jarrekk/Wagner/issues"
   },
-  "homepage": "https://github.com/jarrekk/Jalpc#readme",
+  "homepage": "https://github.com/jarrekk/Wagner#readme",
   "dependencies": {
     "animate.css": "^3.5.2",
     "bootstrap": "^3.3.6",

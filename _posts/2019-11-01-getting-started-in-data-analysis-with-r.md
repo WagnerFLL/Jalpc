@@ -96,4 +96,4 @@ hsb2_private <- hsb2 %>% filter(schtyp == "private")
 
 ggplot(data = hsb2, aes(x = science, y = math, color = prog)) + geom_point()
 ```
-![](https://github.com/WagnerFLL/Wagner/static/assets/img/plot.jpeg)
+<img src="{{ site.img_path }}/R/plot.jpeg" width="75%">

@@ -242,7 +242,7 @@ for(j in 1:10){
   
   print(colnames(developers)[j])
   
-  path <- paste("/Users/joaocorreia/data-analysis/Developers/",colnames(developers)[j],"/",colnames(developers)[j]," - ",sep="")
+  path <- paste("/Users/Wagner/Developers/",colnames(developers)[j],"/",colnames(developers)[j]," - ",sep="")
   
   results <- data.frame(0,0,0, 0, 0,0,0)
   
